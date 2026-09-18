@@ -16,6 +16,7 @@ public class Login {
     private String LastName;
     private String Username;
     private String Password;
+    private String userr;
     private String CellPhoneNumber;
 
     public Login(String Name, String LastName, String Username,String Password, String CellPhoneNumber){
